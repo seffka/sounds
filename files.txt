@@ -1,8 +1,0 @@
-guitar_a_1000.wav
-guitar_d_1000.wav
-harpsichord_a_1000.wav
-harpsichord_d_1000.wav
-piano_a_1000.wav
-piano_d_1000.wav
-tambura_a_1000.wav
-tambura_d_1000.wav

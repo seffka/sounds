@@ -6,8 +6,23 @@ from os.path import isfile, join, splitext
 f = [f for f in listdir('.') if isfile(join('.', f)) and splitext(join('.', f))[1] == '.wav' and 'intro.wav' not in f]
 res = []
 confusions = {}
+allFiles = {}
 for line in f:
     parts = splitext(line)[0].split('_')
+    instrument = parts[0]
+    ad = parts[1]
+    length = parts[2]
+    other = parts[3]
+    id = instrument + '_' + ad + '_' + length
+    if (id in allFiles):
+        allFiles[id].append(line)
+    else:
+        allFiles[id]=[line]
+
+#allInstruments = ['piano', 'guitar', 'tambura', 'harpsichord']
+
+for id in allFiles.keys():
+    parts = id.split('_')
     instrument = parts[0]
     ad = parts[1]
     length = parts[2]
@@ -19,17 +34,15 @@ for line in f:
     allInstruments.add('tambura')
     allInstruments.add('harpsichord')
     allInstruments.discard(instrument)
-    restInstruments = list(allInstruments)
-    falseInstrument = restInstruments[random.randint(0, len(allInstruments) - 2)]
-    res.append([instrument, line])
-    res.append([falseInstrument, line])
-    confKey = instrument +':' + falseInstrument
-    if (confusions.has_key(confKey)) :
-        confusions[confKey] = confusions[confKey] + 1
-    else:
-        confusions[confKey] = 1
+    falseFiles = []
+    for falseInstrument in allInstruments:
+        falseInstrumentId = falseInstrument + '_' + ad + '_' + length
+        sh = allFiles[falseInstrumentId][:]
+        random.shuffle(sh)
+        falseFiles.extend(sh[:2])
 
-print 'confusions: ', confusions
+    res.append([instrument, ' '.join(allFiles[id])])
+    res.append([instrument, ' '.join(falseFiles)])
 
 random.shuffle(res)
 

@@ -1,64 +1,80 @@
-piano piano_a_32_a4.wav piano_a_32_b4.wav piano_a_32_g4.wav piano_a_32_gis4.wav
-harpsichord harpsichord_a_64_b4.wav harpsichord_a_64_g4.wav
-piano guitar_d_64_g4.wav guitar_d_64_b4.wav harpsichord_d_64_b4.wav harpsichord_d_64_g4.wav tambura_d_64_gis4.wav tambura_d_64_a4.wav
-guitar piano_a_64_a4.wav piano_a_64_gis4.wav harpsichord_a_64_g4.wav harpsichord_a_64_b4.wav tambura_a_64_gis4.wav tambura_a_64_a4.wav
-tambura tambura_a_32_a4.wav tambura_a_32_gis4.wav
-guitar guitar_d_250_a4.wav guitar_d_250_b4.wav guitar_d_250_g4.wav
-guitar guitar_a_16_a4.wav guitar_a_16_b4.wav guitar_a_16_g4.wav
-guitar piano_d_16_a4.wav piano_d_16_gis4.wav harpsichord_d_16_b4.wav harpsichord_d_16_g4.wav tambura_d_16_gis4.wav tambura_d_16_a4.wav
-guitar guitar_a_64_a4.wav guitar_a_64_b4.wav guitar_a_64_g4.wav
-tambura tambura_a_64_a4.wav tambura_a_64_gis4.wav
-piano piano_d_64_a4.wav piano_d_64_b4.wav piano_d_64_g4.wav piano_d_64_gis4.wav
-piano guitar_a_16_b4.wav guitar_a_16_a4.wav harpsichord_a_16_b4.wav harpsichord_a_16_g4.wav tambura_a_16_a4.wav tambura_a_16_gis4.wav
-guitar piano_d_250_g4.wav piano_d_250_gis4.wav harpsichord_d_250_b4.wav harpsichord_d_250_g4.wav tambura_d_250_a4.wav tambura_d_250_gis4.wav
-guitar piano_a_250_b4.wav piano_a_250_a4.wav harpsichord_a_250_g4.wav harpsichord_a_250_b4.wav tambura_a_250_gis4.wav tambura_a_250_a4.wav
-piano piano_a_64_a4.wav piano_a_64_b4.wav piano_a_64_g4.wav piano_a_64_gis4.wav
-harpsichord harpsichord_d_250_b4.wav harpsichord_d_250_g4.wav
-guitar piano_d_64_b4.wav piano_d_64_g4.wav harpsichord_d_64_b4.wav harpsichord_d_64_g4.wav tambura_d_64_gis4.wav tambura_d_64_a4.wav
-tambura guitar_d_250_b4.wav guitar_d_250_a4.wav piano_d_250_a4.wav piano_d_250_gis4.wav harpsichord_d_250_b4.wav harpsichord_d_250_g4.wav
-guitar guitar_a_32_a4.wav guitar_a_32_b4.wav guitar_a_32_g4.wav
-tambura guitar_d_16_a4.wav guitar_d_16_g4.wav piano_d_16_gis4.wav piano_d_16_g4.wav harpsichord_d_16_g4.wav harpsichord_d_16_b4.wav
-harpsichord harpsichord_d_32_b4.wav harpsichord_d_32_g4.wav
-piano guitar_d_16_a4.wav guitar_d_16_b4.wav harpsichord_d_16_b4.wav harpsichord_d_16_g4.wav tambura_d_16_a4.wav tambura_d_16_gis4.wav
-guitar guitar_d_32_a4.wav guitar_d_32_b4.wav guitar_d_32_g4.wav
-harpsichord guitar_a_64_a4.wav guitar_a_64_b4.wav piano_a_64_g4.wav piano_a_64_gis4.wav tambura_a_64_gis4.wav tambura_a_64_a4.wav
-harpsichord guitar_a_16_b4.wav guitar_a_16_g4.wav piano_a_16_b4.wav piano_a_16_g4.wav tambura_a_16_a4.wav tambura_a_16_gis4.wav
-guitar piano_a_32_g4.wav piano_a_32_b4.wav harpsichord_a_32_g4.wav harpsichord_a_32_b4.wav tambura_a_32_a4.wav tambura_a_32_gis4.wav
-harpsichord harpsichord_a_32_b4.wav harpsichord_a_32_g4.wav
-tambura tambura_a_16_a4.wav tambura_a_16_gis4.wav
-piano guitar_d_250_a4.wav guitar_d_250_b4.wav harpsichord_d_250_g4.wav harpsichord_d_250_b4.wav tambura_d_250_a4.wav tambura_d_250_gis4.wav
-piano piano_d_16_a4.wav piano_d_16_b4.wav piano_d_16_g4.wav piano_d_16_gis4.wav
-harpsichord harpsichord_d_16_b4.wav harpsichord_d_16_g4.wav
-piano piano_a_16_a4.wav piano_a_16_b4.wav piano_a_16_g4.wav piano_a_16_gis4.wav
-harpsichord harpsichord_d_64_b4.wav harpsichord_d_64_g4.wav
-harpsichord guitar_d_64_g4.wav guitar_d_64_a4.wav piano_d_64_g4.wav piano_d_64_gis4.wav tambura_d_64_a4.wav tambura_d_64_gis4.wav
-guitar piano_a_16_a4.wav piano_a_16_gis4.wav harpsichord_a_16_b4.wav harpsichord_a_16_g4.wav tambura_a_16_a4.wav tambura_a_16_gis4.wav
-tambura guitar_a_250_a4.wav guitar_a_250_g4.wav piano_a_250_gis4.wav piano_a_250_g4.wav harpsichord_a_250_g4.wav harpsichord_a_250_b4.wav
-tambura guitar_a_32_g4.wav guitar_a_32_a4.wav piano_a_32_a4.wav piano_a_32_gis4.wav harpsichord_a_32_b4.wav harpsichord_a_32_g4.wav
-tambura tambura_d_64_a4.wav tambura_d_64_gis4.wav
-guitar guitar_d_16_a4.wav guitar_d_16_b4.wav guitar_d_16_g4.wav
-tambura tambura_d_250_a4.wav tambura_d_250_gis4.wav
-tambura tambura_d_16_a4.wav tambura_d_16_gis4.wav
-piano piano_d_32_a4.wav piano_d_32_b4.wav piano_d_32_g4.wav piano_d_32_gis4.wav
-piano guitar_a_32_a4.wav guitar_a_32_g4.wav harpsichord_a_32_b4.wav harpsichord_a_32_g4.wav tambura_a_32_a4.wav tambura_a_32_gis4.wav
-guitar piano_d_32_a4.wav piano_d_32_b4.wav harpsichord_d_32_b4.wav harpsichord_d_32_g4.wav tambura_d_32_gis4.wav tambura_d_32_a4.wav
-harpsichord guitar_a_32_a4.wav guitar_a_32_g4.wav piano_a_32_b4.wav piano_a_32_a4.wav tambura_a_32_gis4.wav tambura_a_32_a4.wav
-harpsichord guitar_d_16_g4.wav guitar_d_16_a4.wav piano_d_16_gis4.wav piano_d_16_a4.wav tambura_d_16_gis4.wav tambura_d_16_a4.wav
-harpsichord harpsichord_a_16_b4.wav harpsichord_a_16_g4.wav
-piano piano_d_250_a4.wav piano_d_250_b4.wav piano_d_250_g4.wav piano_d_250_gis4.wav
-tambura tambura_a_250_a4.wav tambura_a_250_gis4.wav
-tambura guitar_d_32_a4.wav guitar_d_32_b4.wav piano_d_32_a4.wav piano_d_32_b4.wav harpsichord_d_32_g4.wav harpsichord_d_32_b4.wav
-harpsichord guitar_d_250_g4.wav guitar_d_250_b4.wav piano_d_250_g4.wav piano_d_250_gis4.wav tambura_d_250_gis4.wav tambura_d_250_a4.wav
-harpsichord harpsichord_a_250_b4.wav harpsichord_a_250_g4.wav
-guitar guitar_d_64_a4.wav guitar_d_64_b4.wav guitar_d_64_g4.wav
-guitar guitar_a_250_a4.wav guitar_a_250_b4.wav guitar_a_250_g4.wav
-harpsichord guitar_a_250_a4.wav guitar_a_250_g4.wav piano_a_250_b4.wav piano_a_250_a4.wav tambura_a_250_gis4.wav tambura_a_250_a4.wav
-piano piano_a_250_a4.wav piano_a_250_b4.wav piano_a_250_g4.wav piano_a_250_gis4.wav
-piano guitar_d_32_a4.wav guitar_d_32_g4.wav harpsichord_d_32_g4.wav harpsichord_d_32_b4.wav tambura_d_32_gis4.wav tambura_d_32_a4.wav
-tambura guitar_d_64_b4.wav guitar_d_64_a4.wav piano_d_64_b4.wav piano_d_64_a4.wav harpsichord_d_64_g4.wav harpsichord_d_64_b4.wav
-tambura tambura_d_32_a4.wav tambura_d_32_gis4.wav
-piano guitar_a_250_a4.wav guitar_a_250_b4.wav harpsichord_a_250_g4.wav harpsichord_a_250_b4.wav tambura_a_250_gis4.wav tambura_a_250_a4.wav
-tambura guitar_a_16_a4.wav guitar_a_16_g4.wav piano_a_16_a4.wav piano_a_16_b4.wav harpsichord_a_16_g4.wav harpsichord_a_16_b4.wav
-piano guitar_a_64_a4.wav guitar_a_64_g4.wav harpsichord_a_64_b4.wav harpsichord_a_64_g4.wav tambura_a_64_gis4.wav tambura_a_64_a4.wav
-harpsichord guitar_d_32_g4.wav guitar_d_32_a4.wav piano_d_32_a4.wav piano_d_32_g4.wav tambura_d_32_gis4.wav tambura_d_32_a4.wav
-tambura guitar_a_64_a4.wav guitar_a_64_g4.wav piano_a_64_b4.wav piano_a_64_gis4.wav harpsichord_a_64_g4.wav harpsichord_a_64_b4.wav
+guitar guitar_d_128_a3.wav guitar_d_128_b3.wav guitar_d_128_g3.wav
+piano piano_d_64_a3.wav piano_d_64_ab3.wav piano_d_64_b3.wav piano_d_64_g3.wav
+guitar piano_a_16_b3.wav piano_a_16_g3.wav harpsichord_a_16_b3.wav harpsichord_a_16_g3.wav tambura_a_16_gis3.wav tambura_a_16_a3.wav
+guitar piano_a_64_g3.wav piano_a_64_a3.wav harpsichord_a_64_b3.wav harpsichord_a_64_g3.wav tambura_a_64_gis3.wav tambura_a_64_a3.wav
+piano piano_a_64_a3.wav piano_a_64_ab3.wav piano_a_64_b3.wav piano_a_64_g3.wav
+guitar piano_d_32_a3.wav piano_d_32_g3.wav harpsichord_d_32_b3.wav harpsichord_d_32_g3.wav tambura_d_32_gis3.wav tambura_d_32_a3.wav
+guitar piano_d_128_ab3.wav piano_d_128_g3.wav harpsichord_d_128_g3.wav harpsichord_d_128_b3.wav tambura_d_128_gis3.wav tambura_d_128_a3.wav
+guitar guitar_a_128_a3.wav guitar_a_128_b3.wav guitar_a_128_g3.wav
+piano piano_a_16_a3.wav piano_a_16_ab3.wav piano_a_16_b3.wav piano_a_16_g3.wav
+piano guitar_d_64_b3.wav guitar_d_64_g3.wav harpsichord_d_64_b3.wav harpsichord_d_64_g3.wav tambura_d_64_gis3.wav tambura_d_64_a3.wav
+tambura guitar_a_128_g3.wav guitar_a_128_a3.wav piano_a_128_g3.wav piano_a_128_b3.wav harpsichord_a_128_g3.wav harpsichord_a_128_b3.wav
+guitar guitar_a_32_a3.wav guitar_a_32_b3.wav guitar_a_32_g3.wav
+tambura tambura_a_16_a3.wav tambura_a_16_gis3.wav
+guitar guitar_d_16_a3.wav guitar_d_16_b3.wav guitar_d_16_g3.wav
+tambura guitar_d_16_b3.wav guitar_d_16_a3.wav piano_d_16_ab3.wav piano_d_16_g3.wav harpsichord_d_16_b3.wav harpsichord_d_16_g3.wav
+guitar piano_d_24_ab3.wav piano_d_24_a3.wav harpsichord_d_24_b3.wav harpsichord_d_24_g3.wav tambura_d_24_gis3.wav tambura_d_24_a3.wav
+harpsichord harpsichord_d_64_b3.wav harpsichord_d_64_g3.wav
+guitar guitar_d_32_a3.wav guitar_d_32_b3.wav guitar_d_32_g3.wav
+harpsichord harpsichord_a_128_b3.wav harpsichord_a_128_g3.wav
+piano guitar_a_128_b3.wav guitar_a_128_g3.wav harpsichord_a_128_g3.wav harpsichord_a_128_b3.wav tambura_a_128_a3.wav tambura_a_128_gis3.wav
+tambura tambura_d_32_a3.wav tambura_d_32_gis3.wav
+harpsichord guitar_d_24_g3.wav guitar_d_24_a3.wav piano_d_24_ab3.wav piano_d_24_a3.wav tambura_d_24_gis3.wav tambura_d_24_a3.wav
+guitar guitar_a_24_a3.wav guitar_a_24_b3.wav guitar_a_24_g3.wav
+harpsichord guitar_a_128_g3.wav guitar_a_128_b3.wav piano_a_128_b3.wav piano_a_128_a3.wav tambura_a_128_gis3.wav tambura_a_128_a3.wav
+harpsichord harpsichord_d_128_b3.wav harpsichord_d_128_g3.wav
+tambura guitar_a_24_a3.wav guitar_a_24_b3.wav piano_a_24_ab3.wav piano_a_24_g3.wav harpsichord_a_24_b3.wav harpsichord_a_24_g3.wav
+piano piano_a_128_a3.wav piano_a_128_ab3.wav piano_a_128_b3.wav piano_a_128_g3.wav
+harpsichord harpsichord_a_32_b3.wav harpsichord_a_32_g3.wav
+guitar piano_a_24_b3.wav piano_a_24_g3.wav harpsichord_a_24_b3.wav harpsichord_a_24_g3.wav tambura_a_24_gis3.wav tambura_a_24_a3.wav
+harpsichord guitar_a_64_b3.wav guitar_a_64_a3.wav piano_a_64_b3.wav piano_a_64_g3.wav tambura_a_64_gis3.wav tambura_a_64_a3.wav
+tambura tambura_d_64_a3.wav tambura_d_64_gis3.wav
+tambura guitar_a_16_g3.wav guitar_a_16_a3.wav piano_a_16_ab3.wav piano_a_16_a3.wav harpsichord_a_16_b3.wav harpsichord_a_16_g3.wav
+harpsichord harpsichord_d_32_b3.wav harpsichord_d_32_g3.wav
+piano guitar_a_16_a3.wav guitar_a_16_g3.wav harpsichord_a_16_b3.wav harpsichord_a_16_g3.wav tambura_a_16_gis3.wav tambura_a_16_a3.wav
+harpsichord harpsichord_d_16_b3.wav harpsichord_d_16_g3.wav
+harpsichord harpsichord_a_64_b3.wav harpsichord_a_64_g3.wav
+piano piano_d_24_a3.wav piano_d_24_ab3.wav piano_d_24_b3.wav piano_d_24_g3.wav
+piano piano_d_32_a3.wav piano_d_32_ab3.wav piano_d_32_b3.wav piano_d_32_g3.wav
+guitar piano_a_32_g3.wav piano_a_32_a3.wav harpsichord_a_32_g3.wav harpsichord_a_32_b3.wav tambura_a_32_a3.wav tambura_a_32_gis3.wav
+piano piano_d_16_a3.wav piano_d_16_ab3.wav piano_d_16_b3.wav piano_d_16_g3.wav
+tambura tambura_a_32_a3.wav tambura_a_32_gis3.wav
+harpsichord guitar_d_128_b3.wav guitar_d_128_g3.wav piano_d_128_b3.wav piano_d_128_ab3.wav tambura_d_128_gis3.wav tambura_d_128_a3.wav
+piano guitar_d_16_g3.wav guitar_d_16_b3.wav harpsichord_d_16_g3.wav harpsichord_d_16_b3.wav tambura_d_16_gis3.wav tambura_d_16_a3.wav
+tambura tambura_d_16_a3.wav tambura_d_16_gis3.wav
+harpsichord guitar_d_16_b3.wav guitar_d_16_a3.wav piano_d_16_ab3.wav piano_d_16_a3.wav tambura_d_16_a3.wav tambura_d_16_gis3.wav
+piano guitar_a_64_b3.wav guitar_a_64_a3.wav harpsichord_a_64_g3.wav harpsichord_a_64_b3.wav tambura_a_64_a3.wav tambura_a_64_gis3.wav
+piano piano_a_24_a3.wav piano_a_24_ab3.wav piano_a_24_b3.wav piano_a_24_g3.wav
+tambura tambura_d_128_a3.wav tambura_d_128_gis3.wav
+piano guitar_d_24_b3.wav guitar_d_24_a3.wav harpsichord_d_24_g3.wav harpsichord_d_24_b3.wav tambura_d_24_gis3.wav tambura_d_24_a3.wav
+harpsichord guitar_a_24_b3.wav guitar_a_24_a3.wav piano_a_24_a3.wav piano_a_24_ab3.wav tambura_a_24_a3.wav tambura_a_24_gis3.wav
+piano piano_a_32_a3.wav piano_a_32_ab3.wav piano_a_32_b3.wav piano_a_32_g3.wav
+harpsichord guitar_a_32_b3.wav guitar_a_32_g3.wav piano_a_32_b3.wav piano_a_32_g3.wav tambura_a_32_gis3.wav tambura_a_32_a3.wav
+piano guitar_a_24_g3.wav guitar_a_24_a3.wav harpsichord_a_24_g3.wav harpsichord_a_24_b3.wav tambura_a_24_gis3.wav tambura_a_24_a3.wav
+harpsichord harpsichord_a_24_b3.wav harpsichord_a_24_g3.wav
+piano guitar_d_128_a3.wav guitar_d_128_g3.wav harpsichord_d_128_g3.wav harpsichord_d_128_b3.wav tambura_d_128_gis3.wav tambura_d_128_a3.wav
+harpsichord harpsichord_d_24_b3.wav harpsichord_d_24_g3.wav
+tambura tambura_a_24_a3.wav tambura_a_24_gis3.wav
+tambura tambura_d_24_a3.wav tambura_d_24_gis3.wav
+piano guitar_d_32_g3.wav guitar_d_32_b3.wav harpsichord_d_32_b3.wav harpsichord_d_32_g3.wav tambura_d_32_a3.wav tambura_d_32_gis3.wav
+harpsichord harpsichord_a_16_b3.wav harpsichord_a_16_g3.wav
+guitar piano_a_128_g3.wav piano_a_128_a3.wav harpsichord_a_128_g3.wav harpsichord_a_128_b3.wav tambura_a_128_gis3.wav tambura_a_128_a3.wav
+tambura guitar_d_32_b3.wav guitar_d_32_a3.wav piano_d_32_ab3.wav piano_d_32_a3.wav harpsichord_d_32_g3.wav harpsichord_d_32_b3.wav
+guitar guitar_a_16_a3.wav guitar_a_16_b3.wav guitar_a_16_g3.wav
+guitar piano_d_64_g3.wav piano_d_64_b3.wav harpsichord_d_64_b3.wav harpsichord_d_64_g3.wav tambura_d_64_a3.wav tambura_d_64_gis3.wav
+guitar guitar_d_24_a3.wav guitar_d_24_b3.wav guitar_d_24_g3.wav
+tambura guitar_a_32_a3.wav guitar_a_32_b3.wav piano_a_32_ab3.wav piano_a_32_g3.wav harpsichord_a_32_g3.wav harpsichord_a_32_b3.wav
+harpsichord guitar_d_64_b3.wav guitar_d_64_g3.wav piano_d_64_ab3.wav piano_d_64_b3.wav tambura_d_64_gis3.wav tambura_d_64_a3.wav
+tambura guitar_d_24_g3.wav guitar_d_24_b3.wav piano_d_24_g3.wav piano_d_24_b3.wav harpsichord_d_24_g3.wav harpsichord_d_24_b3.wav
+tambura guitar_d_64_b3.wav guitar_d_64_g3.wav piano_d_64_b3.wav piano_d_64_a3.wav harpsichord_d_64_g3.wav harpsichord_d_64_b3.wav
+piano piano_d_128_a3.wav piano_d_128_ab3.wav piano_d_128_b3.wav piano_d_128_g3.wav
+harpsichord guitar_d_32_a3.wav guitar_d_32_g3.wav piano_d_32_g3.wav piano_d_32_ab3.wav tambura_d_32_a3.wav tambura_d_32_gis3.wav
+tambura guitar_a_64_b3.wav guitar_a_64_g3.wav piano_a_64_b3.wav piano_a_64_g3.wav harpsichord_a_64_b3.wav harpsichord_a_64_g3.wav
+tambura tambura_a_64_a3.wav tambura_a_64_gis3.wav
+tambura guitar_d_128_g3.wav guitar_d_128_a3.wav piano_d_128_g3.wav piano_d_128_a3.wav harpsichord_d_128_b3.wav harpsichord_d_128_g3.wav
+guitar guitar_d_64_a3.wav guitar_d_64_b3.wav guitar_d_64_g3.wav
+harpsichord guitar_a_16_g3.wav guitar_a_16_b3.wav piano_a_16_a3.wav piano_a_16_ab3.wav tambura_a_16_a3.wav tambura_a_16_gis3.wav
+piano guitar_a_32_a3.wav guitar_a_32_g3.wav harpsichord_a_32_b3.wav harpsichord_a_32_g3.wav tambura_a_32_a3.wav tambura_a_32_gis3.wav
+guitar guitar_a_64_a3.wav guitar_a_64_b3.wav guitar_a_64_g3.wav
+guitar piano_d_16_g3.wav piano_d_16_ab3.wav harpsichord_d_16_b3.wav harpsichord_d_16_g3.wav tambura_d_16_a3.wav tambura_d_16_gis3.wav
+tambura tambura_a_128_a3.wav tambura_a_128_gis3.wav
